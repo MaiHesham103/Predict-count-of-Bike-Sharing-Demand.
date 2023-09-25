@@ -1,6 +1,5 @@
 **Project Title:** Predicting Bike Sharing Demand
 
-**Description:**
 This captivating project delves into the fascinating world of bike-sharing demand prediction. It's a predictive modeling task aimed at determining how many bikes will be rented based on various environmental and seasonal factors.
 
 In this project, I leveraged a rich dataset containing features such as date, time, temperature, humidity, wind speed, and more. The goal was to build a robust machine-learning model capable of accurately forecasting bike rental counts. 
